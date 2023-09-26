@@ -1,0 +1,8 @@
+folder_in: /home/acer/tst/file
+folder_out: /home/acer/tst/out
+folder_ext: /home/acer/tst/ext
+folder_arch: /home/acer/tst/arch
+folder_home: /home/acer/tst/home
+count_file: 10
+size_file: 5M
+name_of_arch: '*.7z'
